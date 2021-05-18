@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 3
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 4
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 6
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 7
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 8
+    },
+    {
+      "title": "My stream",
+      "description": "My desc",
+      "id": 9
+    }
+  ]
+}
