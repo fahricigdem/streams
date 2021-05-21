@@ -9,3 +9,9 @@ api:
 npm init 
 npm install --save json-server
 
+
+
+rtmpserver (optionel): 
+npm install --save node-media-server 
+npm install --save flv.js
+
